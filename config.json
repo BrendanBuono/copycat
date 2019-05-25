@@ -1,0 +1,12 @@
+{
+    "toShop":{
+        "shopName":"lovepoptest5.myshopify.com",
+        "apiKey":"44316b6d4fa04ac98819e5b87c1312b4",
+        "password":"15bf87d39298c98fcf67ad4865bf29f3"
+    },
+    "fromShop":{
+        "shopName":"lovepoptest.myshopify.com",
+        "apiKey":"55cb98f3dee71b6b929dddc70c105fe8",
+        "password":"bb0274aafe3ffd91323338f1a34d0c59"
+    }
+}
