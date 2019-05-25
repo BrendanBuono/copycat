@@ -1,0 +1,16 @@
+{
+  "name": "copycat",
+  "version": "0.0.1",
+  "description": "Shopify Store Copier",
+  "main": "main.ts",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "shopify-api-node": "^2.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brendan.buono@gmail.com",
+  "license": "MIT"
+}
